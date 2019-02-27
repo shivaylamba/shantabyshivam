@@ -9,7 +9,7 @@ router.get("/headlines", (req, res) => {
       q: "pakistan",
       sources: "bbc-news,the-verge",
       domains: "bbc.co.uk,techcrunch.com",
-      from: "2019-1-26",
+      from: "2019-1-29",
       to: "2019-2-20",
       language: "en",
       sortBy: "relevancy",
